@@ -8,7 +8,8 @@ The brief enterprise manufacturers limited, a company with a growing workforce a
 Introduction: 
 This analysis provided a comprehensive review of the company’s workforce demographics, diversity distribution, and hiring trends. The goal was to understand the current state of diversity across departments and locations, assess hiring patterns, and identify areas for improvement.
  # Dataset used
-<a  href=" https://github.com/Imayorrr/Human-Resources-Diversity-Analysis/commit/d406f56a53267624439a8c8d4f499b2cc999871a">Dataset Used</a>
+<a href="https://github.com/Imayorrr/Human-Resources-Diversity-Analysis/commit/d406f56a53267624439a8c8d4f499b2cc999871a">Dataset Used</a>
+
 # Analysis
 These are the key insights I got from the analysis
 
